@@ -4,6 +4,7 @@
     "display": "fullscreen",
     "scope": "/",
     "start_url": "/index.html",
+    "id" : "/blog.html",
     "name": "Jeremy Evando",
     "short_name": "Jeremy",
     "orientation" : "portrait",
