@@ -6,6 +6,7 @@
     "start_url": "/index.html",
     "name": "Jeremy Evando",
     "short_name": "Jeremy",
+    "orientation" : "portrait",
     "icons": [
         {
             "src": "/icon-192x192.png",
